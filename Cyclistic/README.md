@@ -26,5 +26,6 @@ The complete, step-by-step documentation of my entire process—including the to
 
 To see the full analysis, please view the following document:
 
-➡️ **[`Deliverables.pdf`](./Deliverables.pdf)**
+➡️ **[`Cyclistic_report_and_deliverables.pdf`](./Cyclistic_report_and_deliverables.pdf)**
+
 Thank you for reviewing my work.
